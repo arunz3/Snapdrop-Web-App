@@ -1,7 +1,7 @@
 # Snapdrop-Client-App
 Snapdrop local file sharing in your browser
 
-This app is just a web application
+This app is just a web application for android 
 
 https://github.com/RobinLinus/snapdrop
 
